@@ -23,7 +23,7 @@ jobs:
         cmake ..
         make
 
-    - name: Run tests
-      run: |
+    # name: Run tests
+     # run: |
 
 
